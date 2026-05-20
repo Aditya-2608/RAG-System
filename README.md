@@ -100,7 +100,7 @@ The system is designed for correctness, transparency, and a clean user experienc
 
 ## Author
 
-**Aditi Arya**  
+**Aditya Aryan Singh**  
 
 ---
 
